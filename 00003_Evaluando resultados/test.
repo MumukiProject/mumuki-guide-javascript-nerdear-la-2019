@@ -1,11 +1,4 @@
-describe("foo", function() {
- it("Ignoren este mensaje", function() {
-    assert(true);
-  });
-  it("Ignoren este mensaje", function() {
-    assert(true);
-  });
-  it("Falló", function() {
-    assert(false);
-  });
-})
+foo = foo || [];
+it("Foo no tiene el tamaño correcto", function() {
+  assert(foo.length, 3);
+});
