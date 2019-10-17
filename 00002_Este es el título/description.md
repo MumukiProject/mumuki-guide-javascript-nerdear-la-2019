@@ -1,1 +1,2 @@
-Esta es un enunciado
+Este es un enunciado. En general se suele introducir un nuevo concepto teórico y proponer un ejercicio que permita validar ese conocimiento. 
+Envía una solución cualquiera y pasá al siguiente ejercicio.
