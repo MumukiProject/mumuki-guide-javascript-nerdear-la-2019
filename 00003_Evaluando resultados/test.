@@ -5,5 +5,20 @@ describe("foo", function() {
   it("Ignoren este mensaje", function() {
     assert(true);
   });
+  it("Falló", function() {
+    assert(false);
+  });
+})
+ 
+describe("foo", function() {
+ it("Ignoren este mensaje", function() {
+    assert(true);
+  });
+  it("Ignoren este mensaje", function() {
+    assert(true);
+  });
+  it("Falló", function() {
+    assert(false);
+  });
 })
  
