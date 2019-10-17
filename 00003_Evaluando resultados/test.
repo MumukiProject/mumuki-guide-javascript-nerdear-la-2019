@@ -1,4 +1,3 @@
-foo = foo || [];
-it("Foo no tiene el tamaño correcto", function() {
+it("Foo tiene el tamaño correcto", function() {
   assert(foo.length, 3);
 });
