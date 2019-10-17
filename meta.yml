@@ -1,0 +1,12 @@
+---
+name: Nerdear.la 2019
+locale: en
+type: learning
+beta: false
+teacher_info: ''
+language: javascript
+id_format: "%05d"
+order:
+- 2
+- 1
+private: false
