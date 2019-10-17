@@ -1,3 +1,3 @@
-it("El evento es correcto", function() {
-  assert(evento, "NERD");
+it("El evento es nerdear.la", function() {
+  assert(evento, "nerdear.la");
 });
