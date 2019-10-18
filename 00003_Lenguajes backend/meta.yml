@@ -4,6 +4,7 @@ layout: input_right
 editor: code
 type: problem
 extra_visible: false
+language: ruby
 manual_evaluation: false
 choices: []
-name: Evaluando resultados
+name: Lenguajes backend

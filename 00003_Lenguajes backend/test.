@@ -1,0 +1,9 @@
+it "promedio de [1, 2, 3] es 2" do
+  lista_1 = [1, 2, 3]
+  expect(promedio_de(lista_1)). to be 2
+end
+
+it "promedio de [4, 4, 4] es 4" do
+  lista_2 = [4, 4, 4]
+  expect(promedio_de(lista_2)).to be 4
+end
