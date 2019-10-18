@@ -1,3 +1,8 @@
+Gobstones es un lenguaje visual que utiliza **tableros**.
+Usando un programa es posible desplazarse y colocar bolitas de colores en los mismos.
+
+Para desplazarse en el tablero se utiliza el comando `Mover` seguido de una dirección y para colocar bolitas el comando `Poner` seguido de un color.
+
 <table class= "table" style="width:100%">
   <thead>
   <tr>
