@@ -1,3 +1,3 @@
 it("El evento es nerdear.la", function() {
-  assert.equal(evento, "nerdear.la");
+  assert(evento, "nerdear.la");
 });
