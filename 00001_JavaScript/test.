@@ -1,5 +1,5 @@
 it("16 no es mayor de edad", function() {
-  assert.isNotTrue(esMayorDeEdad(16));
+  assert.isFalse(esMayorDeEdad(16));
 });
 
 it("18 es mayor de edad", function() {
