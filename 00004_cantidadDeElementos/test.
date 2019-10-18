@@ -1,0 +1,7 @@
+it("[1, 2, 3] tiene 3 elementos", function() {
+  assert.equals(3, cantidadDeElementos([1, 2, 3]));
+});
+
+it("[] tiene 0 elementos", function() {
+  assert.equals(0, cantidadDeElementos([]));
+});
