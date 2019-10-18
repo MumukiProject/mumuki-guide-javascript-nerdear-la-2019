@@ -1,1 +1,1 @@
-¡Ejercicios para la demo de Nerdear.la 2019!
+Ejercicios para la demo!
