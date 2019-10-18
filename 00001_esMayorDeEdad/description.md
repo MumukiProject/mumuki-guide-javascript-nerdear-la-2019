@@ -1,0 +1,1 @@
+Definí una función `esMayorDeEdad` que, dada una edad, responda si esa edad es mayor o igual a 18.
