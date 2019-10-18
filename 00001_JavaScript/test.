@@ -1,3 +1,11 @@
-it("Ignoren este mensaje", function() {
-  assert(true);
+it("16 no es mayor de edad", function() {
+  assert.isNotTrue(esMayorDeEdad(16));
+});
+
+it("18 es mayor de edad", function() {
+  assert(esMayorDeEdad(18));
+});
+
+it("20 es mayor de edad", function() {
+  assert(esMayorDeEdad(20));
 });
